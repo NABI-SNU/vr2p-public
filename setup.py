@@ -7,7 +7,7 @@ setup(
     author = 'Johan Winnubst',
     author_email = 'https://github.com/sprustonlab/vr2p',
     packages = ['vr2p'],
-    zip_safe = False
+    zip_safe = False,
     install_requires=[
         # Core numerical stack (explicit pins from environment.yml)
         "numpy==1.22.1",
