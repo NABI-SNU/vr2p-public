@@ -14,6 +14,7 @@ setup(
         "pandas",
         "scipy",
         "numba",
+        "tqdm",
     
         # Imaging / ML
         "scikit-image",
